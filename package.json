@@ -1,0 +1,16 @@
+{
+  "name": "github-action",
+  "version": "1.0.0",
+  "description": "cicd pipeline",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js" 
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^5.0.6",
+    "express": "^5.2.1"
+  }
+}
